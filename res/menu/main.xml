@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:visible="false"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_register"
+        android:orderInCategory="100"
+        android:title="Register"
+        android:visible="false"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="About"
+        android:icon="@drawable/ic_action_about"
+        app:showAsAction="always"/>
+
+</menu>

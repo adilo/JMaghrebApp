@@ -1,0 +1,95 @@
+{
+ "sections":[
+				{
+				 "name": "PLATINUM",
+				 "sponsors": [
+								{
+								 "name": "Morpho",
+								 "img": "http://moroccojug.org/jmaghreb_1/themes/corporate/images/morpho.jpeg",
+								 "link": "http://www.morpho.com/?lang=en";
+								 "imgRes": "morpho"
+								}
+							]
+				},
+				{
+				 "name": "GOLD",
+				 "sponsors": [
+								{
+								 "name": "BNP PARIBAS",
+								 "img": "http://www.jmaghreb.org/jmag20/images/medit.png?version=1&modificationDate=1340623419230",
+								 "link": "http://www.bnpparibas-medit.ma/";
+								 "imgRes": "medit"
+								},
+								{
+								 "name": "ORACLE",
+								 "img": "http://moroccojug.org/jmaghreb_1/themes/corporate/images/Oracle2.gif?version=1&modificationDate=1340623419230",
+								 "link": "http://oracle.com/";
+								 "imgRes": "oracle"
+								}
+							]
+				},
+				{
+				 "name": "BRONZE",
+				 "sponsors": [
+								{
+								 "name": "OBJIS",
+								 "img": "http://moroccojug.org/jmaghreb_1/themes/corporate/images/logo-objis.png",
+								 "link": "http://www.objis.com/";
+								 "imgRes": "logo_objis"
+								}
+							]
+				},
+				{
+				 "name": "TECHNOLOGY PARTNERS",
+				 "sponsors": [
+								{
+								 "name": "IBM",
+								 "img": "http://www.jmaghreb.org/jmag20/images/ibm.jpeg",
+								 "link": "http://ibm.com/";
+								 "imgRes": "ibm"
+								},
+								{
+								 "name": "GITHUB",
+								 "img": "http://www.jmaghreb.org/jmag20/images/github.png",
+								 "link": "http://github.com/";
+								 "imgRes": "github"
+								},
+								{
+								 "name": "PIVOTAL",
+								 "img": "http://www.jmaghreb.org/jmag20/images/pivotal.png",
+								 "link": "http://gopivotal.com/";
+								 "imgRes": "pivotal"
+								},
+								{
+								 "name": "ZERO TURNAROUND",
+								 "img": "http://moroccojug.org/jmaghreb_1/themes/corporate/images/ZeroTurnaround_logo.jpeg",
+								 "link": "http://zeroturnaround.com/";
+								 "imgRes": "zeroturnaround_logo"
+								}
+							]
+				},
+				{
+				 "name": "MEDIA PARTNERS",
+				 "sponsors": [
+								{
+								 "name": "BEDDOUJART",
+								 "img": "http://www.jmaghreb.org/jmag20/images/logono.png",
+								 "link": "http://www.jmaghreb.org/jmag20/";
+								 "imgRes": "logono"
+								},
+								{
+								 "name": "MEDZ SOURCING",
+								 "img": "http://www.jmaghreb.org/jmag20/images/logoMedZ.jpg",
+								 "link": "http://www.medz-sourcing.com/";
+								 "imgRes": "logomedz"
+								},
+								{
+								 "name": "TERA MAGAZINE",
+								 "img": "http://moroccojug.org/jmaghreb_1/themes/corporate/images/logo_tera.png",
+								 "link": "http://www.teramagazine.co.cc/";
+								 "imgRes": "logo_tera"
+								}
+							]
+				}
+			]
+}

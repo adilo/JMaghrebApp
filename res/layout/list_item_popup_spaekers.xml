@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/ListItemContainerBase"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/container"
+        style="@style/ListItemContainerBase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false" >
+
+        <LinearLayout
+            android:id="@+id/block_time_container"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:background="@drawable/transparent_background_pattern"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/img_sponsor"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="2dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/list_item_middle_container"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/block_title"
+                style="@style/ListItemTitle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="?listPreferredItemPaddingLeft"
+                android:layout_marginRight="?listPreferredItemPaddingRight"
+                android:duplicateParentState="true"
+                android:focusable="false"
+                android:gravity="center_vertical"
+                android:paddingTop="8dp" />
+
+        </LinearLayout>
+     android:orientation="horizontal" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="100dp" >
+
+    </LinearLayout>
+
+</LinearLayout>

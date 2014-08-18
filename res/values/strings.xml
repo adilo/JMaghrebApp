@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JMaghreb</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_speakers">Speakers</string>
+    <string name="title_stream">Stream</string>
+    <string name="title_sponsors">Sponsors</string>
+    <string name="about">JMaghreb conference is the annual Java conference organized by MoroccoJUG (Morocco Java User Group). The conference takes place every year around November and it aims to be the largest Java conference in the Maghreb region. Its first edition - JMaghreb 1.0- was an impressive start for a new Java conference! More than 900 developers attended the 2 days conference with more than 600 attendees every day.</string>
+    <string name="stats">Bellow some statistics from the JMaghreb 1.0 :</string>
+    <string name="stats1">30 sessions were delivered by 18 speakers from 10 different countries</string>
+    <string name="stats2">10 sessions in French and 20 in English</string>
+    <string name="stats3">Attendees from 5 different countries and 57 cities in Morocco</string>
+    <string name="stats4">40.9% qualified them as professional and rest as students JMaghreb</string>
+    <string name="about_html">
+<![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;">
+ <div>
+                                    JMaghreb conference is the annual Java conference organized by <a target="moroccojug" href="http://www.moroccojug.org" title="MoroccoJUG">MoroccoJUG</a> (Morocco Java User Group). The conference takes place every year around November and it aims to be the largest Java conference in the Maghreb region.
+                                    Its first edition - JMaghreb 1.0- was an impressive start for a new Java conference! More than 900 developers attended the 2 days conference with more than 600 attendees every day. 
+
+                                    Bellow some statistics from the JMaghreb 1.0 :
+                                    <ul style="margin-left: 15px; ">
+                                        <li> 30 sessions were delivered by 18 speakers from 10 different countries</li>
+                                        <li> 10 sessions in French and 20 in English</li>
+                                        <li> Attendees from 5 different countries and 57 cities in Morocco </li>
+                                        <li> 40.9% qualified them as professional and rest as students
+                                            JMaghreb</li>
+                                    </ul>
+                                </div>
+ </body>
+</html>
+]]>
+    </string>
+
+    <string-array name="roles">
+        <item>Developer / Programmer</item>
+        <item>Technical Team Lead (Senior Developer)</item>
+        <item>Architect: Technical/Application (platform specific guy)</item>
+        <item>Architect: Solution/Systems (integration focused)</item>
+        <item>Technical Project Manager</item>
+        <item>Enterprise Architect / Chief Architect</item>
+        <item>Senior Management (VP, CTO, CIO, Director)</item>
+        <item>Student</item>
+        <item>Other IT Staff</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="cities">
+        <item>Agadir</item>
+        <item>Casablanca</item>
+        <item>Eljadida</item>
+        <item>Fes</item>
+        <item>Kenitra</item>
+        <item>Marrakech</item>
+        <item>Meknes</item>
+        <item>Oujda</item>
+        <item>Rabat</item>
+        <item>Tanger</item>
+        <item>Aghram</item>
+        <item>Ain-Chair</item>
+        <item>Aknoul</item>
+        <item>Aqa</item>
+        <item>Arbaoua</item>
+        <item>Arfoud</item>
+        <item>Assa</item>
+        <item>Assilah</item>
+        <item>Azemour</item>
+        <item>Azilal</item>
+        <item>Bengrir</item>
+        <item>Benimellal</item>
+        <item>Benslimane</item>
+        <item>Berkane</item>
+        <item>Berrechid</item>
+        <item>Bou-Inan</item>
+        <item>Bou-Tajit</item>
+        <item>Bouarfa</item>
+        <item>Boulmane</item>
+        <item>Bourd</item>
+        <item>Bouznika</item>
+        <item>Chefchaouen</item>
+        <item>Chefchaoun</item>
+        <item>Dakhla</item>
+        <item>Demnat</item>
+        <item>El Kalaa des Sraghna</item>
+        <item>El-Menzel B?ni-Yazgha</item>
+        <item>Elhajeb</item>
+        <item>Errachidia</item>
+        <item>Errich</item>
+        <item>Essaouira</item>
+        <item>Ezzak</item>
+        <item>Figuig</item>
+        <item>Fkih Ben Saleh</item>
+        <item>Gara</item>
+        <item>Guelmim</item>
+        <item>Guerssif</item>
+        <item>Hiskoura</item>
+        <item>Hoceima</item>
+        <item>Ifran</item>
+        <item>Imouzer Kandar</item>
+        <item>Jerada</item>
+        <item>Kalaat Magouna</item>
+        <item>Kasba Tadla</item>
+        <item>Khemisset</item>
+        <item>Khenifra</item>
+        <item>Khouribga</item>
+        <item>Ksar El Kbir</item>
+        <item>Laayoune</item>
+        <item>Larache</item>
+        <item>Midelt</item>
+        <item>Missour</item>
+        <item>Mohammedia</item>
+        <item>Moulay Bouazza</item>
+        <item>Moulay Yacoub</item>
+        <item>Nador</item>
+        <item>Ouarzazate</item>
+        <item>Oued Amlil</item>
+        <item>Oued Zem</item>
+        <item>Ouezzane</item>
+        <item>Rissani</item>
+        <item>Rommani</item>
+        <item>Safi</item>
+        <item>Sale</item>
+        <item>Sefrou</item>
+        <item>Settat</item>
+        <item>Sidi Bennour</item>
+        <item>Sidi Ifni</item>
+        <item>Sidi Kacem</item>
+        <item>Sidi Slimane</item>
+        <item>Sidi Yahia Lgharb</item>
+        <item>Skhirat</item>
+        <item>Smara</item>
+        <item>Souk el arbaa du gharb</item>
+        <item>Tafraout</item>
+        <item>Tahla</item>
+        <item>Taliwine</item>
+        <item>Tandit</item>
+        <item>Tantan</item>
+        <item>Taounate</item>
+        <item>Taourirt</item>
+        <item>Taroudant</item>
+        <item>Tata</item>
+        <item>Taza</item>
+        <item>Temara</item>
+        <item>Tetouan</item>
+        <item>Tiflet</item>
+        <item>Tinjdad</item>
+        <item>Tissa</item>
+        <item>Tizi Oussli</item>
+        <item>Tiznit</item>
+        <item>Youssoufia</item>
+        <item>Zagoura</item>
+        <item>Zerhoun</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

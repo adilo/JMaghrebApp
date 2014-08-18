@@ -1,0 +1,56 @@
+{
+  "days": [
+    {
+      "day": "THURSDAY, NOVEMBER 7",
+      "slot": [
+        {
+          "start": "10:00",
+          "end": "10:55",
+          "title": "Welcome & announcements",
+          "subTitle": "Welcome to JMaghreb 2.0 ...",
+          "meta": "Welcome"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "title": "Lunch break",
+          "subTitle": "Lunch break",
+          "meta": "Lunch"
+        },
+        {
+          "start": "16:00",
+          "end": "16:30",
+          "title": "Coffee break",
+          "subTitle": "Coffee break",
+          "meta": "Coffee"
+        }
+      ]
+    },
+    {
+      "day": "FRIDAY, NOVEMBER 8",
+      "slot": [
+        {
+          "start": "12:00",
+          "end": "14:00",
+          "title": "Lunch break",
+          "subTitle": "Lunch break",
+          "meta": "Lunch"
+        },
+        {
+          "start": "16:00",
+          "end": "16:30",
+          "title": "Coffee break",
+          "subTitle": "Coffee break",
+          "meta": "Coffee"
+        },
+         {
+          "start": "17:30",
+          "end": "18:00",
+          "title": "See you at JMaghreb 3.0!",
+          "subTitle": "See you at JMaghreb 3.0!",
+          "meta": "GoodBye"
+        }
+      ]
+    }
+   ]  
+}

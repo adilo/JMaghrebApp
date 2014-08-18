@@ -1,0 +1,193 @@
+﻿{
+ "presenters":[
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Abdelilah Saaf  occupe actuellement un poste de Consultant Senior en Middleware Oracle en charge du Nord Afrique, je suis ingénieur d’état en informatique diplômé de l’ENSIAS RABAT avec 13 ans d’expériences principalement dans les domaines suivants&nbsp;:Architecture et Gouvernance des systèmes d’informations, BPM, SOA, GED, ITIL et JAVA</div>",
+ 	 "name": "ABDELILAH SAAF",
+ 	 "thumbnailRes": "speaker_1",
+ 	 "id": "1001"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">ZEDDARI Abderrazzak is a Senior Java developer at Ericsson with more than 4 years experience in n Java programming. He is actually an «&nbsp;MDA software architecture&nbsp;» Phd Student.</div>",
+ 	 "name": "ABDERRAZZAK ZEDDARI",
+ 	 "thumbnailRes": "speaker_2",
+ 	 "id": "1002"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Passionate to know fundamentals, identity and history of technologies that have contributed to create the new world that we know, Adil is a software engineer at Safran Morpho. Adil is an active member of Morocco JUG, focusing on cooperating with other MoroccoJUG co-workers to strengthen the Java community in Morocco.</div>",
+ 	 "name": "ADIL OURIDA",
+ 	 "thumbnailRes": "speaker_3",
+ 	 "id": "1003"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Badr bellaj  est  Ingénieur en informatique et télécommunication qui occupe actuellement le poste de responsable de l'unité informatique à la direction régionale de la santé Doukkala ABDA. Il est aussi un auteur permanant chez TeraMagazine et BitMagazine.</div>",
+ 	 "name": "BADR BELLAJ",
+ 	 "thumbnailRes": "speaker_4",
+ 	 "id": "1004"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Badr El Houari “Moroccan java evangelist” is a Java expert at Safran Morpho with more than 7 years experience developing and building Java and Java EE applications. He co-lead the Morocco Java User Group (MoroccoJUG) and co-created the JMaghreb conference, one of the largest Java Conference in Africa. Badr is also a Java trainer and a frequent speaker in local and worldwide developer conferences.</div>",
+ 	 "name": "BADR EL HOUARI",
+ 	 "thumbnailRes": "speaker_5",
+ 	 "id": "1005"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Chris Richardson is a developer and architect with over 20 years of experience. He is a Java Champion and the author of POJOs in Action, which describes how to build enterprise Java applications with POJOs and frameworks such as Spring and Hibernate. Chris is the founder of the original CloudFoundry.com and now spends his time investigating better ways to develop applications. He has a computer science degree from the University of Cambridge in England and lives in Oakland, CA.</div>",
+ 	 "name": "CHRIS RICHARDSON",
+ 	 "thumbnailRes": "speaker_6",
+ 	 "id": "1006"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">David Delabassee is a Product Manager working at Oracle in the GlassFish and Java EE Team. Prior to that, he spent the last 10 years at Sun Microsystems focusing on Java end-to-end (from the smart card to the high end server), all the related technologies, and the developer tools. He has been involved in Java projects since the early days of this technology. David is a steering member of Devoxx, Europe largest Java conference. In his spare time, he enjoy tinkering and playing with technologies such as Java, Arduino, Processing, Linux, etc.</div>",
+ 	 "name": "DAVID DELABASSEE",
+ 	 "thumbnailRes": "speaker_7",
+ 	 "id": "1007"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Douglas MBIANDOU is founder, architecte JAVA/SOA and trainer at OBJIS. Guarantor of Objis service satisfaction, he is the creator of the innovative pedagogy approach at Objis. He divides his time between missions consulting and training around security, performance and Java/JEE applications architecture.</div>",
+ 	 "name": "DOUGLAS MBIANDOU",
+ 	 "thumbnailRes": "speaker_8",
+ 	 "id": "1008"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\"><div>
+<p>
+Boutaounte Faissal has more than six years of experience in development, architecture and software engineering.  He had the opportunity to work in the different phases of the information system life cycle, and he has completed his Bachelor of IT engineer in 2007.
+</p>
+<p>Faissal is a member of JCP and he co-founded moroccoJug.org and co-created JMaghreb, he is a regular speaker on JUG  and other national/international events. He launched  \"JEMI\" an education initiative to boost Java education within morocco universities, first edition was on Mohammadia engineering school.</p>
+</div></div>",
+ 	 "name": "FAISSAL BOUTAOUNTE",
+ 	 "thumbnailRes": "speaker_9",
+ 	 "id": "1009"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Jordan McCullough, a JavaScript and front-end developer by trade, has a passion for open source software and community-driven development. He enjoys applying his technical know-how and software development experience to crafting meaningful learning experiences with GitHub and Git Training.</div>",
+ 	 "name": "JORDAN MCCULLOUGH",
+ 	 "thumbnailRes": "speaker_10",
+ 	 "id": "1010"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Josh Long is the Spring developer advocate. He is the lead author on Apress’ Spring Recipes, 2nd Edition’ and a SpringSource committer and contributor. When he's not hacking on code, he can be found at the local Java User Group or at the local coffee shop. Josh likes solutions that push the boundaries of the technologies that enable them. His interests include scalability, BPM, grid processing, mobile computing and so-called \"smart\" systems. He blogs at blog.springsource.org or joshlong.com and is on Twitter as @starbuxman.</div>",
+ 	 "name": "JOSHUA LONG",
+ 	 "thumbnailRes": "speaker_11",
+ 	 "id": "1011"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">J'ai en charge la certification Java au sein de la DSI BDDF. Je valide aussi les Architectures Techniques des différentes applications Java de la DSI et je met en place des normes de développements de code Java. J'ai d'ailleurs réalisé un book au sein de la DSI BDDF sur les normes et les bonnes pratiques de développements Java ainsi que sur la mise en oeuvre de plateforme d'intégration continue dans un soucis de respect de la qualité des développements Java - JEE.</div>",
+ 	 "name": "MARTIAL LEGUIS",
+ 	 "thumbnailRes": "speaker_12",
+ 	 "id": "1012"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Software architect at Safran Morpho. Mohamed is an active member of the Morocco JUG with a number of participation as a speaker at his credit in events such as the launching of the JAVA 7 and JEMI program. Besides his interest in the JAVA/ JEE ecosystem, Mohamed is focusing on how to improve the development process using Agile methodology.
+Mohamed has about seven years of experience during it he had the opportunity to work with many technologies and he was involved with all application life cycle phases as a software architect or as a project manager.
+You can follow him on twitter @MohamedMHAREK</div>",
+ 	 "name": "MOHAMED MHAREK",
+ 	 "thumbnailRes": "speaker_13",
+ 	 "id": "1013"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Mohamed is a Systems Architect, Java team leader, and consultant with around 11 years’ experience in projects architecture, manages department team, projects deadlines, delivery times, capacity plans, and resource planning in case of concurrent projects / change requests development.
+<br><br>
+Mohamed graduated from faculty of engineering, with B.Sc in computer engineering systems, major Electrical Engineering.&nbsp;
+<br><br>
+He is a Java Community process&nbsp; (JCP) member, who is involved in working on many JSRs especially Java EE7 umbrella JSRs / Glassfish 4 evaluation and testing, and a member of Adopt-A-JSR, Adopt OpenJDK, and FishCAT programs.
+<br><br>
+Mohamed is Oracle Egypt Architects Club board member, with responsibility to define and put the correct architecture reference solutions for Oracle customer's projects in EMEA.
+<br><br>
+His career has taken him to different companies (Oracle, Silicon Expert &amp; Intercom Enterprise), where he works now as Systems architect, and Java TL at e-finance. He is one of the co-founder of this company, which is built to be the government company with main responsibility for building the national Egyptian e-payment hub, beside automating, building, and integrating different government payment channels affecting Egyptian daily life.
+<br><br>
+He is a frequent speaker at Java User Groups and conferences worldwide Including JavaOne, JUG Tunisia, JEEConf, JDC Egypt, and Devoxx.
+<br><br>
+For full information and blogs visit: <a href=\"http://about.me/mohamedtaman\">http://about.me/mohamedtaman</a></div>",
+ 	 "name": "MOHAMED TAMAN",
+ 	 "thumbnailRes": "speaker_14",
+ 	 "id": "1014"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Mohammed Loukili  is a Technology Strategist and architect with good managerial experience and extensive practical knowledge in SOA, cloud and application integration. Results oriented, data driven, exceptional interpersonal skills</div>",
+ 	 "name": "MOHAMMED LOUKILI",
+ 	 "thumbnailRes": "speaker_15",
+ 	 "id": "1015"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Nizar Abounassir is a SW Channel Account Manager at IBMs.He have developed alliances and links at CXO level with partners and customers to achieve strategic objectives. Nizar feel comfortable with strategic decision-making in high growth technology environments and have demonstrated ability to co-ordinate across functions to achieve operational targets and generate revenue. He have also demonstrated the ability to manage Alliances and Channels to achieve sales targets, administer budgets, develop business plans, provide support to partners and account managers, enabling partners to deliver better service to customers, recruit and enable channel partners both resellers, solution providers and system integrators. As a Channel Leader, Nizar have engaged and delivered successful results in driving, growing business Year over Year and developing channel Ecosystem.</div>",
+ 	 "name": "NIZAR ABOUNASSIR",
+ 	 "thumbnailRes": "speaker_16",
+ 	 "id": "1016"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\"><p>Omar Guendeli is a diehard gamer who started game development as a hobbyist in the Amiga days, actually in Medical Internship and still practicing game dev focused on Gameplay Programming and Game Design. Also, Omar is an active member of Moroccan Game Developers community doing his best to promote game development.</p>
+<p>
+As for projects, Omar got a nice overall score in game jams &amp; hackatons where he finished in 3rd place for Game Zanga 2013 with Lost Humanity: a puzzler platformer and won the \"best performance award\" at the inwidays 2013.</p></div>",
+ 	 "name": "OMAR GUENDELI",
+ 	 "thumbnailRes": "speaker_17",
+ 	 "id": "1017"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\"><p>Osama Hussein is avid gamer and developer who started programming on his own Atari 800XL in Basic during his childhood, graduated from Jordan University of Science and Technology (J.U.S.T.) as Computer Engineer.</p>
+<p>Osama has been working in several game development studios which include Jordan-based NASSONS Entertainment Studios, UK-based Ubisoft Reflections, and currently Ubisoft Casablanca as engine programmer. He worked on various platforms that mainly consist of gaming consoles and handhelds, and got several games under his belt from award winning titles such as Rayman Origins and Just Dance 2014 to enthusiast games such as Harban which holds “Most Humorous Game” title of, Arab-based game development jam, Game Zanga 2012. </p>
+<p>
+Due to his residency in Morocco, Osama co-founded Moroccan Game Developers, a community interested in video game development from all aspects, with the aim of spreading knowledge and awareness of game development in Morocco.</p></div>",
+ 	 "name": "OSAMA HUSSEIN",
+ 	 "thumbnailRes": "speaker_18",
+ 	 "id": "1018"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Patrick Curran is Chair of the Java Community Process organization. In this role he oversees the activities of the JCP's Program Management Office including evolving the process and the organization, managing its membership, guiding specification leads and experts through the process, chairing Executive Committee meetings, and managing the JCP.org web site
+<br><br>
+Patrick has worked in the software industry for more than 25 years, and at Sun and then Oracle for 20 years. He has a long-standing record in conformance testing, and before joining the JCP he led the Java Conformance Engineering team in Sun's Client Software Group. He was also chair of Sun's Conformance Council, which was responsible for defining Sun's policies and strategies around Java conformance and compatibility.
+<br><br>
+Patrick has participated actively in several consortia and communities including the W3C (as a member of the Quality Assurance Working Group and co-chair of the Quality Assurance Interest Group), and OASIS (as co-chair of the Test Assertions Guidelines Technical Committee). Patrick's blog is at <a href=\"https://blogs.oracle.com/pcurran/\">https://blogs.oracle.com/pcurran/</a>.</div>",
+ 	 "name": "PATRICK CURRAN",
+ 	 "thumbnailRes": "speaker_19",
+ 	 "id": "1019"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">J'ai en charge la responsabilité d'une cellule technique composée d'expert Java et Cobol. Mon rôle est de m'assurer de la bonne application des normes et de développements au sein de BNP PARIBAS - MÉDITERRANÉE-IT. Je fais aussi partie aussi d'une communauté d'experts techniques des différentes entités informatiques du Groupe BNP PARIBAS dans le cadre de partage de connaissance sur les nouvelles technologies mise en place dans le groupe.</div>",
+ 	 "name": "REDOUANE EL HALOUI",
+ 	 "thumbnailRes": "speaker_20",
+ 	 "id": "1020"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\"><p>Sif has been dealing with Information technologies, project management and management for a while (more than 18 years). This long career was a great occasion for him to know a lot about technologies, how to learn, how to apply, how to become expert and how to innovate. But more important, it was the occasion to learn about people, their interactions, what makes a successful team, and what makes a good and smart people individually, build a very bad team.</p>
+<p>Sif is all time seeking to learn more and become better, and sometimes he is granted a testimonial for his efforts. Thus, Sif is a Certified Scrum Master (CSM) and a Certified Scrum Professional (CSP) and a &nbsp;Project Manager Professional (PMP). He has a large background in information technologies with several Certifications from Microsoft (MCSE, MCDBA…). He is also an Engineer and a Master Sc. in computer Science.</p>
+<p>One way to be thankful is to share knowledge! That’s why Sif has founded “<strong>Agile Maroc</strong>”, a non-benefit association to spread the Agile message in Morocco and everywhere. He organized and animated several conferences in Morocco and Canada</p>
+<p>For now, Sif is auditing, advising, training and coaching companies, organizations and people about how to get more from their Information System, and how to have better life at work.</p></div>",
+ 	 "name": "SIF ELHARTI",
+ 	 "thumbnailRes": "speaker_21",
+ 	 "id": "1021"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Simon Ritter is the Java Technology Outreah/Evangelism team leader at Oracle Corporation.<br>
+ Simon has been in the IT business since 1984 and holds a Bachelor of Science degree in Physics from Brunel University in the U.K.&nbsp;
+<br><br>
+Originally working in the area of UNIX development for AT&amp;T UNIX System Labs and then Novell, Simon moved to Sun in 1996. At this time he started working with Java technology and has spent time working both in Java technology development and consultancy. Having moved to Oracle as part of the Sun acquisition he now focuses on the core Java platform and Java for client applications. He also continues to develop demonstrations that push the boundaries of Java for applications like gestural interfaces.
+<br><br>
+Follow him on Twitter, @speakjava and on his blog at blogs.oracle.com/speakjava.</div>",
+ 	 "name": "SIMON RITTER",
+ 	 "thumbnailRes": "speaker_22",
+ 	 "id": "1022"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Simon is a Technical Evangelist at ZeroTurnaround, but is less about preaching and more about discussion and interaction. His passion is around technical communities and is an active member of the London Java Community (LJC) organising group as well as the LJC JCP EC committee. Simon used to be a tester, developer and technical evangelist for IBM on the WebSphere Application Server for over 10 years prior to joining ZeroTurnaround. He enjoys playing and watching football (spherical variety), drinking tea and spending quality time with his family.</div>",
+ 	 "name": "SIMON MAPLE",
+ 	 "thumbnailRes": "speaker_23",
+ 	 "id": "1023"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Yousri BENDI ABDALLAH is a Java developer, architect and trainer by day. He turns into a passionate geek who meets regularly with other peer colleagues. It is in the Community LeaderShip Liferay Inc. He is very active and a board member in the Liferay community. He was leader at the Moroccan JUG. http://macovoiturage.com founder and creator of many other applications for his customers. Mr Yousri took the 2nd place in BeMyApp Morocco 2013 and  Startup Weekend 2013</div>",
+ 	 "name": "YOUSRI BENDI ABDALLAH",
+ 	 "thumbnailRes": "speaker_24",
+ 	 "id": "1024"
+ 	},
+ 	{
+ 	 "bio": "<div style=\"border-left: 1px solid darkgrey;padding-left: 20px;font-family: 'Abel', sans-serif;font-size: 16px;\" ng-bind-html-unsafe=\"speaker.bio\" class=\"ng-binding\">Zafer Al-Abed, a Senior Development Team Lead at EtQ, the leading global provider of Quality and Compliance systems. 
+More than 11 years of experience in Java programming, mainly in enterprise and web applications, with a focus on code design and refactoring and Agile software development 
+Zafer is a Sun certified web component developer, Certified IBM 486 Object Oriented Analysis and Design with UML, and is Sun Certified Java Programmer since 2003. 
+He has delivered Refactoring training to tens of Java developers already...</div>",
+ 	 "name": "ZAFER AL-ABED",
+ 	 "thumbnailRes": "speaker_25",
+ 	 "id": "1025"
+ 	}
+ 	]
+}

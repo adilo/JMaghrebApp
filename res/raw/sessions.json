@@ -1,0 +1,415 @@
+﻿{
+  "days": [
+    {
+		 "day": "THURSDAY, NOVEMBER 7",
+		 "slot": [
+					  {
+					   "subTitle": "Le standard HTML5 est un standard très large qui englobe un ensemble de différentes technologies. Parmi celles-ci, on retrouve notamment les WebSockets, un protocole bi-directionnel full-duplex. Cette session examine en détail l'effort mené au sein du JSR 356 afin de standardiser l’utilisation des WebSocket en Java. Cette spécification définit une API WebSocket utilisable à la fois du côté serveur et du côté client, utilisable programmatiquement mais aussi via l’utilisation d’annotations. L’API WebSocket fait partie intégrante de Java EE 7. Différents détails tels que la sécurisation, l'interopérabilité avec JavaScript, le debugging seront également abordés durant la session.",
+					   "title": "JSR 356 - Java API for WebSocket",
+					   "start": "11:00",
+					   "speakersId": [
+					    "1007"
+					   ],
+					   "end": "11:55",
+					   "location": "Agora room",
+					   "id": "102"
+					  },
+					   {
+					   "subTitle": "The big language features for Java SE 8 are lambda expressions (closures) and default methods (formerly called defender methods or virtual extension methods). Adding lambda expressions to the language opens up a host of new expressive opportunities for applications and libraries. You might assume that lambda expressions are simply a more syntactically compact form of inner classes, but, in fact, the implementation of lambda expressions is substantially different and builds on the invokedynamic feature added in Java SE 7. This session will explain the ideas behind lambda expressions, how they will be used in Java SE 8 and look at some of the details of their implementation.",
+					   "title": "Project Lambda: Functional Programming Constructs and Simpler Concurrency in Java SE 8",
+					   "start": "12:00",
+					   "speakersId": [
+					    "1022"
+					   ],
+					   "end": "12:55",
+					   "location": "Agora room",
+					   "id": "103"
+					  },
+					   {
+					   "subTitle": "There are many application servers on the market today, but which are right for you as a developer? This session looks at the popular application servers—including Tomcat, TomEE, GlassFish, Jetty, WebSphere, Oracle WebLogic Server, Liberty Profile, and JBoss—and analyzes them from the point of view of a developer. It focuses on performance, config management, open source compliance, feature richness, tooling, and developer productivity, among others. Come to this session to learn about the main differences between the application servers on the market today and understand which might be best for your needs.",
+					   "title": "The Adventurous Developer's Guide to Application Servers ",
+					   "start": "14:00",
+					   "speakersId": [
+					    "1023"
+					   ],
+					   "end": "14h55",
+					   "location": "Agora room",
+					   "id": "104"
+					  },
+					   {
+					   "subTitle": "BNP PARIBAS JAVA INDUSTRIALIZATION",
+					   "title": "BNP PARIBAS JAVA INDUSTRIALIZATION",
+					   "start": "15:00",
+					   "speakersId": [
+					    "1012",
+					    "1020"
+					   ],
+					   "end": "15h55",
+					   "location": "Agora room",
+					   "id": "105"
+					  },
+					   {
+					   "subTitle": "The Raspberry Pi has caused a huge wave of interest amongst developers, providing an ARM powered single board computer running a full Linux distro off an SD card and all for only $35! After an introduction to the Raspberry Pi and the ARM architecture this session will look at how Java can be used on a device like this. Oracle have released an early access preview of JDK8 including JavaFX and a version of Java ME Embedded (3.3) tuned specifically for the Raspberry Pi. This includes a very useful Device Access API enabling the use of sensors and actuators easily from Java code using the Raspberry Pi’s external interface. Using these releases we will show a variety of demonstrations of what the Raspberry Pi is capable of. Prepare to be amazed at what this tiny board can do.",
+					   "title": "Do you like coffee with your dessert? Embedded Java and the Raspberry Pi",
+					   "start": "16:30",
+					   "speakersId": [
+					    "1022"
+					   ],
+					   "end": "17:25",
+					   "location": "Agora room",
+					   "id": "106"
+					  },
+					   {
+					   "subTitle": "All businesses have valuable data which remains in their premises, with the raise of mobile technology and consumers, businesses can open their data repositories for developers to develop stunning applications around which creates new sales chanels and new revenue streams for the businesses. Think about the retail industry, the finance industry and even for the govenment open data project.",
+					   "title": "Create mettered and secure REST APIs to consume by mobile devices and enterprise applications",
+					   "start": "17:30",
+					   "speakersId": [
+					    "1015"
+					   ],
+					   "end": "18:25",
+					   "location": "Agora room",
+					   "id": "107"
+					  },
+					   {
+					   "subTitle": "Class loaders are at the core of the Java language. Java EE containers, OSGi, NetBeans modules, Tapestry 5, Grails and many others use class loaders heavily. Yet when something goes wrong, would you know how to solve it? In this session we'll take a tour of the Java class loading mechanism, both from JVM and developer point of view. We will look at typical problems that you get with class loading and how to solve them. ClassNoDefError, IncompatibleClassChangeError, LinkageError and many others are symptoms of specific things going wrong that you can usually find and fix. For each problem we'll go through a hands on demo with a corresponding solution. We'll also take a look at how and why classloaders leak and how can you remedy that.",
+					   "title": "Do you really get class loaders?",
+					   "start": "11:00",
+					   "speakersId": [
+					    "1023"
+					   ],
+					   "end": "11:55",
+					   "location": "Casablanca room",
+					   "id": "108"
+					  },
+					  {
+					   "subTitle": "Dans Cette session l’assistance va découvrir l’offre Oracle pour les développements Java a savoir : Oracle ADF (Application Developement Frework) : le Framework de développement Java stratégique d’Oracle Oracle Weblogic : Le serveur d’application J2EE d’Oracle.",
+					   "title": "Accélérer et optimiser les développements Java avec ADF et Weblogic.",
+					   "start": "12:00",
+					   "speakersId": [
+					    "1001"
+					   ],
+					   "end": "12:55",
+					   "location": "Casablanca room",
+					   "id": "109"
+					  },
+					  {
+					   "subTitle": "In this session we start with a discussion on the importance of writing readable well-designed code, we then move to explaining the basic principles of Object Oriented design (as explained in Craig Larman's GRASP patterns), we end with a demonstration of the common code refactorings (as explained by Martin Fowler's work and the refactoring catalog).",
+					   "title": "Fundamentals of Code Refactoring",
+					   "start": "14:00",
+					   "speakersId": [
+					    "1025"
+					   ],
+					   "end": "14:55",
+					   "location": "Casablanca room",
+					   "id": "110"
+					  },
+					  {
+					   "subTitle": "On se pose la question sur tout le bruit causé par ce mouvement et comment le mettre en pratique. - À travers un petit voyage parmi les malheurs et les bonheurs du développement logiciel.",
+					   "title": "Agile, pourquoi et comment..?",
+					   "start": "15:00",
+					   "speakersId": [
+					    "1021"
+					   ],
+					   "end": "15h55",
+					   "location": "Casablanca room",
+					   "id": "111"
+					  },
+					  {
+					   "subTitle": " Game Development Process, 30 minutes, by Osama Hussein - Introduction to Unity3D using JavaScript, 45 minutes, by Omar Guendeli - Video game history in the Arabic Region, 30 minutes, by Osama Hussein",
+					   "title": "Moroccan Game Developers BOF",
+					   "start": "16:30",
+					   "speakersId": [
+					    "1018",
+					    "1017"
+					   ],
+					   "end": "18:30",
+					   "location": "Casablanca room",
+					   "id": "112"
+					  },
+					  {
+					   "subTitle": "The success of the Java language and platform depends on community support and participation. Java is developed through the Java Community Process, which is open to all members of the Java community. Recent changes to the process, starting with JSR 348 and continuing with JSR 358 (collectively referred to as JCP.next) make it even easier for developers to observe and to participate in the work of the JCP. Most developers understand the value of participating in open-source projects; this session will explain the benefits of participating in the JCP. We will explain how the JCP is is organized and how Java standards are developed. We will discuss the current state of the Java platforms, explain how the JCP is helping to evolve them, provide practical advice on how you and your Java User Group can participate, and explain why participation is good for your career. Bring your questions, your suggestions, and your concerns. We want to hear from you - the foundation of the Java community.",
+					   "title": "Putting the Community back into the Java Community Process",
+					   "start": "11:00",
+					   "speakersId": [
+					    "1019"
+					   ],
+					   "end": "11:55",
+					   "location": "Fes room",
+					   "id": "113"
+					  },
+					   {
+					   "subTitle": "Learn how GitHub.com is the go-to collaboration platform for coders, document authors, and designers alike. Join Jordan McCullough for a tour of the GitHub.com version control Web Flow, collaboration processes, and more.",
+					   "title": "GitHub, Collaboration, and You",
+					   "start": "12:00",
+					   "speakersId": [
+					    "1010"
+					   ],
+					   "end": "12:55",
+					   "location": "Fes room",
+					   "id": "114"
+					  },
+					   {
+					   "subTitle": "Dans la nouvelle aire d'architecture Cloud et de développement à Haute Productivité, nous allons découvrir le Framework Play! (Utilisé par les gros sites comme Linkedin..) durant la session .... animé par Mr Yousri BENDIABDALLAH La session est sous forme de présentation du Framework, mais aussi l'occasion produire en live un mini-Twitter, et de découvre aussi 2 architectures Cloud pour héberger des applications Play!",
+					   "title": "Play Framework!",
+					   "start": "14:00",
+					   "speakersId": [
+					    "1024"
+					   ],
+					   "end": "14:55",
+					   "location": "Fes room",
+					   "id": "115"
+					  },
+					   {
+					   "subTitle": "Une évolution majeure du serveur d'application IBM WAS avec l'intégration de la virtualisation, du batch, d’un cache distribué et Liberty Profile",
+					   "title": "WebSphere Application Server 8.5.5",
+					   "start": "15:00",
+					   "speakersId": [
+					    "1016"
+					   ],
+					   "end": "15:55",
+					   "location": "Fes room",
+					   "id": "116"
+					  },
+					  {
+					   "subTitle": "Learn how to be part of Java technology through the Java Community Process (JCP) program. You can participate as an individual, corporation, or nonprofit such as a Java user group (JUG). This session present you also the Adopt-A-JSR initiative in Arabic, French and English and gives you also step-by-step instructions on how to get involved in this program",
+					   "title": "Take the JCP & Adopt-A-JSR train and be part of the future of Java!",
+					   "start": "16:30",
+					   "speakersId": [
+					    "1005",
+					    "1019",
+					    "1014"
+					   ],
+					   "end": "17:25",
+					   "location": "Fes room",
+					   "id": "117"
+					  },
+					  {
+					   "subTitle": "Do you not live near a Java User Group? Would you like to hear what other Java User Groups talk about? Do you love JUG sessions but yearn for more of them? The vJUG is virtual, so if you live on the planet Earth you can join. Actually even if you don't you can still join! Our aim is to get the greatest minds and speakers of the Java industry giving talks and presentations for this community, in the form of webinars and JUG session streaming from JUG f2f meetups. Join the vJUG founder in this BOF session to know more about the JUG, how you can be involved, what's the added value for registering to vJUG....",
+					   "title": "vJUG: The World's first online Java User Group",
+					   "start": "17:30",
+					   "speakersId": [
+					    "1023"
+					   ],
+					   "end": "18:30",
+					   "location": "Fes room",
+					   "id": "118"
+					  },
+					  {
+					   "subTitle": "Spring Roo is a popular open-source rapid application development (RAD) tool for Java developers. It enables the developer to build best-practice, high-quality, lock-in-free enterprise applications in minutes. Roo is also highly modular: it allows developers to extend its functionality by installing new add-ons in a secure way. Int this presentation we will show you how to get started with your first project and will introduce you to the key features of Spring Roo. You’ll be guided through the source code, common commands, dynamic finders, remoting support, incremental database reverse engineering, and removing Spring Roo.",
+					   "title": "Rapid Application Developpement : SpringRoo features with SpringToolSuite",
+					   "start": "11:00",
+					   "speakersId": [
+					    "1002"
+					   ],
+					   "end": "11:55",
+					   "location": "Chawqui room",
+					   "id": "1019"
+					  },
+					   {
+					   "subTitle": "Raspberry pi est un micro-ordinateur qui a révolutionné Le Monde de l'Informatique Embarquée. Cette carte suscite beaucoup d’intérêt autour du monde et elle supporte une longue liste de langages de programmation courants (c++, python,...). Jusqu'à peu de temps, il y a eu une absence flagrante de Java, qui selon certaines estimations est la plus populaire de tous. heureusement, ce constat a changé par la mise en place par oracle de solutions compatibles. J'essayerai à travers ma session de présenter la carte raspberry pi (démo live), les produits java qui sont compatibles avec et des initiations de programmation ainsi que deux projets JAVA ciblant Raspberry pi qui sont PI4J et PISMART.",
+					   "title": "Introduction à Java (SE/FX) sur Raspberry pi.",
+					   "start": "12:00",
+					   "speakersId": [
+					    "1004"
+					   ],
+					   "end": "12:55",
+					   "location": "Chawqui room",
+					   "id": "1020"
+					  },
+					   {
+					   "subTitle": "Historically, creating web applications that need bidirectional communication between a client and a server (e.g., instant messaging & gaming applications) has required an abuse of HTTP to poll the server for updates while sending upstream notifications as distinct HTTP calls. HTML5 specification includes the WebSockets (WS) protocol, I will introduce the Websocket JSR 356 (Tyrus RI), & JSON Processing JSR 353 for data exchange which is part of JEE7. In addition, there is a brief comparison of traditional HTTP & WS, followed by covering of how WebSockets works. You will see how using WS removes the overhead of heavy HTTP request and response headers with real case study. Finally, we will review the code of the Web app build on GlassFish 4 app server.",
+					   "title": "Build.now(); TRUE, Real Time Applications with JEE7",
+					   "start": "14:00",
+					   "speakersId": [
+					    "1014"
+					   ],
+					   "end": "16:00",
+					   "location": "Chawqui room",
+					   "id": "1021"
+					  },
+					   {
+					   "subTitle": "The Java EE 7 platform focuses on boosting productivity and embracing HTML5. JAX-RS 2 adds a new client API for invoking RESTful endpoints. JMS 2 is undergoing an overhaul, and long-awaited batch processing API and concurrency utilities are getting added. A new API for building WebSocket-driven applications and JSON processing is also being added to the platform. There are several other improvements coming in this latest version of the platform. Together, these APIs will enable you to be more productive by simplifying enterprise development. This hands-on lab provides a comprehensive introduction to the updated Java EE 7 platform using GlassFish 4 and NetBeans. You will learn about the design patterns of building an application with Java EE 7.",
+					   "title": "Java EE 7 Hands-on Lab",
+					   "start": "16:30",
+					   "speakersId": [
+					    "1007"
+					   ],
+					   "end": "18:30",
+					   "location": "Chawqui room",
+					   "id": "1022"
+					  }
+		  		]
+		 },
+		 {
+		 "day": "FRIDAY, NOVEMBER 8",
+		 "slot": [
+		 
+					  {
+					   "subTitle": "There are more than 50 actively worked JVM languages in existence today. Some have been ported to the JVM, whereas others were written specifically for the JVM. This hands-on session takes an introductory (but non-Hello, World) look at several JVM languages, including Java 8, Scala, Groovy, Kotlin, Ceylon, Xtend, and Clojure. It covers ZeroTurnaround’s initial experiences, including what rocked and sucked in learning each one. You don’t need any prior knowledge of these languages to attend the session. You will learn whether they are for you and will hear about some real-life experiences of trying these languages for the first time.",
+					   "title": "The Adventurous Developer’s Guide to JVM Languages ",
+					   "start": "10:00",
+					   "speakersId": [
+					    "1023"
+					   ],
+					   "end": "10:55",
+					   "location": "Agora room",
+					   "id": "1023"
+					  },
+					  {
+					   "subTitle": "Spring, now part of Pivotal, continues to innovate and support next generation workloads. Spring developer advocate Josh Long introduces some of the exciting new Spring framework technologies supporting websockets, Java 8, Java EE 7, data ingestion and stream processing, NoSQL, Hadoop, production-ready REST and a slew of new tools designed to speed up ramp-up time for new developers",
+					   "title": "The Spring Update: a Look at Spring 3.1, 3.2 and 4.0 ",
+					   "start": "11:00",
+					   "speakersId": [
+					    "1011"
+					   ],
+					   "end": "11:55",
+					   "location": "Agora room",
+					   "id": "124"
+					  },
+					   {
+					   "subTitle": "Today, there are several trends that are forcing application architectures to evolve. Users expect a rich, interactive and dynamic user experience on a wide variety of clients including mobile devices. Applications must be highly scalable, highly available and run on cloud environments. Organizations often want to frequently roll out updates, even multiple times a day. Consequently, it’s no longer adequate to develop simple, monolithic web applications that serve up HTML to desktop browsers. In this talk we describe the limitations of a monolithic architecture. You will learn how to use the scale cube to decompose your application into a set of narrowly focused, independently deployable back-end services and an HTML 5 client. We will also discuss the role of technologies such as NodeJS and AMQP brokers. You will learn how a modern PaaS such as Cloud Foundry simplifies the development and deployment of this style of application.",
+					   "title": "Decomposing applications for deployability and scalability",
+					   "start": "14:00",
+					   "speakersId": [
+					    "1006"
+					   ],
+					   "end": "14h55",
+					   "location": "Agora room",
+					   "id": "125"
+					  },
+					   {
+					   "subTitle": "In this session we will look at how to build comprehensive, intuitive REST APIs. REST has become the standard interaction mechanism for modern applications - powering multi-client device access, web applications, and internal operational interfaces for cloud-based architectures. We will take an existing API and improve it, using hypermedia and best-practices, to eventually be compliant with Level 3 of Leonard Richardson’s Maturity Model. We will also look at common, practical concerns such as how to secure RESTful APIs with OAuth, how to consume OAuth-secured APIs, multipart file handling, error handling, URI rot (caused by fragile and broken URI topologies), and more. When you leave this talk, you'll be armed with the knowledge about how to create a truly great REST API, as well as understand some of the best tools available to build it.",
+					   "title": "Building Beautiful REST APIs with Spring",
+					   "start": "15:00",
+					   "speakersId": [
+					    "1011"
+					   ],
+					   "end": "15h55",
+					   "location": "Agora room",
+					   "id": "126"
+					  },
+					   {
+					   "subTitle": "In this session, hear how a leading financial services company uses Java NIO.2. This session will covers all the advanced aspects involved in developing NIO.2-based applications on certain level. It provides clear instructions for getting the most out of NIO.2 and offers many case studies to spice up your Java applications with the new I/O capabilities from traversing files, watching for notifications, Networking APIs and powerful asynchronous IO.",
+					   "title": "Java 8 NIO.2 API features, a walkthrough (The advanced Stuff)",
+					   "start": "16:30",
+					   "speakersId": [
+					    "1014"
+					   ],
+					   "end": "17:25",
+					   "location": "Agora room",
+					   "id": "127"
+					  },
+					   {
+					   "subTitle": "Identifiez les problèmatiques clés d'une infrastructure de haute disponibilité d'applications JEE. Découvrez comment les serveurs d'application du marché répondent à ces problématiques. Cette présentation est tirée de la formation 'Architecture JAVA' (5j) OBJIS. Cette formation fait partie du 'programme Expert' d'OBJIS : http://www.objis.com/formation-java/Formation-experts.html Mots clés : clustering, load balancing, fail over, affinité de session, réplication de session, réplication de cache, mod_cluster, mod_jk, mod_proxy, jgroups, serveur d'administration.",
+					   "title": "Haute disponibilité applications JEE: problèmes et solutions",
+					   "start": "10:00",
+					   "speakersId": [
+					    "1008"
+					   ],
+					   "end": "12:00",
+					   "location": "Casablanca room",
+					   "id": "128"
+					  },
+					  {
+					   "subTitle": "In this session we start with a discussion on the importance of writing readable well-designed code, we then move to explaining the basic principles of Object Oriented design (as explained in Craig Larman's GRASP patterns), we end with a demonstration of the common code refactorings (as explained by Martin Fowler's work and the refactoring catalog). Hands-on practical exercises will cover all of the explained concepts. Attendees of the workshop are supposed to bring their own laptops? and they will have a Java IDE that they can use to do the exercise?",
+					   "title": "Code Refactoring HOL",
+					   "start": "14:00",
+					   "speakersId": [
+					    "1025"
+					   ],
+					   "end": "16:00",
+					   "location": "Casablanca room",
+					   "id": "129"
+					  },
+					  {
+					   "subTitle": "- Demo of JMaghreb App - View detailed session, hours and speaker information... - View the conference agenda. - Android IHM guidelines.",
+					   "title": "Android Recipes",
+					   "start": "16:30",
+					   "speakersId": [
+					    "1003"
+					   ],
+					   "end": "17:25",
+					   "location": "Casablanca room",
+					   "id": "130"
+					  },
+					  {
+					   "subTitle": "JavaScript used to be confined to the browser. But these days, it’s becoming increasingly popular in server-side applications in the form of Node.js. Node.js provides event-driven, non-blocking I/O model that supposedly makes it easy to build scalable network application. In this talk you will learn about the consequences of combining the event-driven programming model with a prototype-based, weakly typed, dynamic language. We will share our perspective as a server-side Java developer who wasn’t entirely happy about JavaScript in the browser, let alone on the server. You will learn how to use Node.js effectively in modern, polyglot applications.",
+					   "title": "Les tests réels avec Arquillian",
+					   "start": "10:00",
+					   "speakersId": [
+					    "1013"
+					   ],
+					   "end": "10h55",
+					   "location": "Fes room",
+					   "id": "131"
+					  },
+					  {
+					   "subTitle": "JavaScript used to be confined to the browser. But these days, it’s becoming increasingly popular in server-side applications in the form of Node.js. Node.js provides event-driven, non-blocking I/O model that supposedly makes it easy to build scalable network application. In this talk you will learn about the consequences of combining the event-driven programming model with a prototype-based, weakly typed, dynamic language. We will share our perspective as a server-side Java developer who wasn’t entirely happy about JavaScript in the browser, let alone on the server. You will learn how to use Node.js effectively in modern, polyglot applications.",
+					   "title": "NodeJS: the good parts? A skeptic's view",
+					   "start": "11:00",
+					   "speakersId": [
+					    "1006"
+					   ],
+					   "end": "11:55",
+					   "location": "Fes room",
+					   "id": "132"
+					  },
+					   {
+					   "subTitle": "Most of applications nowadays depend intensively on asynchronous or non-blocking IO and file manipulation operations and some other requirements that the standard IO won’t be able to fulfill and that’s the case for most applications today, that’s why people decided to move to NIO, in this session, hear how a leading financial services company uses Java NIO.2. This session will covers all the essential aspects involved in developing NIO.2-based applications day by day. It provides clear instructions for getting the most out of NIO.2 and offers many case studies to spice up your Java applications with the new I/O capabilities.",
+					   "title": "Java 8 NIO.2 API features, a walkthrough (The essential Stuff)",
+					   "start": "14:00",
+					   "speakersId": [
+					    "1014"
+					   ],
+					   "end": "14:55",
+					   "location": "Fes room",
+					   "id": "133"
+					  },
+					   {
+					   "subTitle": "Aujourd’hui Liferay est la solution portail Java EE open source de référence. Il offre une porte d'entrée unique qui rassemble l'ensemble des ressources et services informationnels d'une organisation et les rend accessibles via un espace de travail personnalisé C'est avec un grand plaisir que nous recevons l'un des LeaderShip de la communauté Liferay INC, pour la présentation sous le thème développement et retour d'expérience sur le portail Liferay 6.1",
+					   "title": "Présentation, développement et retour d'expérience sur le portail Liferay 6.1 ",
+					   "start": "15:00",
+					   "speakersId": [
+					    "1024"
+					   ],
+					   "end": "15:55",
+					   "location": "Fes room",
+					   "id": "134"
+					  },
+					  {
+					   "subTitle": "Using a module that provides a Spring XML namespace and integration API is muscle memory for most people: add the .xsd to the imported XML schemas for the configuration file, maybe enable a annotation-driven variant if it's available, autocomplete some XML stanzas, and then you're set! But what about Java configuration? Java configuration has been around in some form since at least 2005. It was merged into the core framework in 2009 and since then we've seen a slew of new Java configuration-powered DSLs pop up. 2013, in particular, has seen alpha-or-better cuts of Java configuration support for Spring MVC, Spring Security (and Spring Security OAuth), Spring Batch, Spring Social, Spring Data (including all the modules under it: REST, MongoDB, JPA, Neo4j, Redis, etc), Spring HATEOAS, and more all provide milestone-or-better cuts of a Java configuration integration. Tomcat 7 (and all Servlet 3-compatible containers) offer a programmatic alternative to web.xml. This provides another great integration hook for modules that wish to integrate with the web container, removing the configuration burden from the user. There's a lot of power here and it's easy to get started if you know what to look for. In this talk, join Spring Developer Advocate Josh Long as he introduces the Java configuration support in the various Spring projects, show how to approach them when integrating them into your code, and - if the situation demands - how to write your own Java configuration DSL.",
+					   "title": "Java Configuration with Spring",
+					   "start": "16:30",
+					   "speakersId": [
+					    "1011"
+					   ],
+					   "end": "17:25",
+					   "location": "Fes room",
+					   "id": "135"
+					  },
+					  {
+					   "subTitle": "This lab will start with a brief recap of how Lambda expressions work in Java SE 8 and how these can be used with the new Stream API to create simpler, more concise and more readable code in Java. A number of exercises will be undertaken by the students to help them understand the new features.",
+					   "title": "Lambda Expressions and Stream API Hands on Lab ",
+					   "start": "10:00",
+					   "speakersId": [
+					    "1022"
+					   ],
+					   "end": "12:00",
+					   "location": "Chawqui room",
+					   "id": "136"
+					  },
+					   {
+					   "subTitle": "GitHub and Git are indispensable tools for software developers and content authors of all backgrounds. In this three hour workshop, GitHub Trainer Jordan McCullough will guide you through proven GitHub.com collaboration workflows, Git command line skills, and how to harness the full power of version control. Bring a laptop with Git installed, a GitHub.com account setup, and be ready to follow along!",
+					   "title": "GitHub Fundamentals",
+					   "start": "14:00",
+					   "speakersId": [
+					    "1010"
+					   ],
+					   "end": "17:00",
+					   "location": "Chawqui room",
+					   "id": "137"
+					  }
+		  		]
+		 }
+]
+}

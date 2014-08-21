@@ -145,7 +145,7 @@ public class SessionsActivity extends BaseActivity {
 
 				Speaker speaker = MainActivity.getSpeakerById(id);
 				txt.setText(speaker.getName());
-				img.setImageResource(getResourceByName(speaker.getThumbnailRes()));
+				img.setImageResource(getResourceByName(speaker.getThumbnail()));
 				holder.speakersView.addView(inflate);
 
 			}

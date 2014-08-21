@@ -5,16 +5,16 @@ import java.util.List;
 
 import com.google.api.client.util.Key;
 
-public class Speakers extends GenericEntities {
+public class Talks extends GenericEntities {
 
 	@Key
-	private List<Speaker> speakers;
+	private List<Talk> talks;
 
 	@Override
 	public List<GenericEntity> getEntities() {
 		List<GenericEntity> entities = new ArrayList<GenericEntity>();
-		for (Speaker s : speakers) {
-			entities.add(s);
+		for (Talk t : talks) {
+			entities.add(t);
 		}
 		return entities;
 	}

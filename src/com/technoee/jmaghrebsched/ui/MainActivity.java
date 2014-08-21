@@ -25,12 +25,15 @@ import com.technoee.jmaghrebsched.dao.DbHelper;
 import com.technoee.jmaghrebsched.dao.SessionDAO;
 import com.technoee.jmaghrebsched.io.CommonSlotsHandler;
 import com.technoee.jmaghrebsched.io.JSONHandler;
-import com.technoee.jmaghrebsched.io.SpeakersHandler;
+import com.technoee.jmaghrebsched.io.ObjectHandler;
 import com.technoee.jmaghrebsched.io.SponsorsHandler;
 import com.technoee.jmaghrebsched.model.Day;
 import com.technoee.jmaghrebsched.model.DaySlot;
 import com.technoee.jmaghrebsched.model.Section;
 import com.technoee.jmaghrebsched.model.Speaker;
+import com.technoee.jmaghrebsched.model.Speakers;
+import com.technoee.jmaghrebsched.model.Talk;
+import com.technoee.jmaghrebsched.model.Talks;
 import com.technoee.jmaghrebsched.ui.fragment.ScheduleFragment;
 import com.technoee.jmaghrebsched.ui.fragment.Slot;
 import com.technoee.jmaghrebsched.ui.fragment.SpeakersFragment;
@@ -40,6 +43,7 @@ public class MainActivity extends BaseActivity implements ActionBar.TabListener,
 		ViewPager.OnPageChangeListener {
 
 	private ViewPager mViewPager;
+	private List<Talk> talks;
 	private static SQLiteDatabase db;
 	private static DbHelper helper;
 	public static List<Section> sponsors;
@@ -87,7 +91,8 @@ public class MainActivity extends BaseActivity implements ActionBar.TabListener,
 			int count = 0;
 			for (Day day : sessionsDays) {
 				for (DaySlot daySlot : day.getSlots()) {
-					if (string.equals(daySlot.getId())) savedSlots.add(new Slot(daySlot, count));
+					if (string.equals(daySlot.getId()))
+						savedSlots.add(new Slot(daySlot, count));
 				}
 				count++;
 			}
@@ -140,17 +145,27 @@ public class MainActivity extends BaseActivity implements ActionBar.TabListener,
 		}
 
 		try {
-			String parseResource = JSONHandler.parseResource(this, R.raw.speakers);
-			SpeakersHandler speakersHandler = new SpeakersHandler(this);
-			speakers = speakersHandler.parseString(parseResource);
+			String parseResource = JSONHandler.parseResource(this, R.raw.sponsors_sections);
+			SponsorsHandler sponsorsHandler = new SponsorsHandler(this);
+			sponsors = sponsorsHandler.parseString(parseResource);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 
 		try {
-			String parseResource = JSONHandler.parseResource(this, R.raw.sponsors_sections);
-			SponsorsHandler sponsorsHandler = new SponsorsHandler(this);
-			sponsors = sponsorsHandler.parseString(parseResource);
+			String parseResource = JSONHandler.parseResource(this, R.raw.accepted_talks);
+			ObjectHandler<Talks, Talk> sponsorsHandler = new ObjectHandler<Talks, Talk>(this,
+					Talks.class);
+			talks = sponsorsHandler.parseString(parseResource);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+		try {
+			String parseResource = JSONHandler.parseResource(this, R.raw.accepted_talks);
+			ObjectHandler<Speakers, Speaker> sponsorsHandler = new ObjectHandler<Speakers, Speaker>(
+					this, Speakers.class);
+			speakers = sponsorsHandler.parseString(parseResource);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -167,7 +182,6 @@ public class MainActivity extends BaseActivity implements ActionBar.TabListener,
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
-		// Inflate the menu; this adds items to the action bar if it is present.
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}

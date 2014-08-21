@@ -2,16 +2,39 @@ package com.technoee.jmaghrebsched.model;
 
 import com.google.api.client.util.Key;
 
-public class Speaker {
+public class Speaker extends GenericEntity{
+
+	@Key(value = "_id")
+	private Id id;
+
+	@Key
+	private int order;
 
 	@Key
 	private String bio;
+
+	@Key(value = "fname")
+	private String fname;
+
+	@Key(value = "lname")
+	private String lname;
+
 	@Key
-	private String name;
+	private String twitter;
+
 	@Key
-	private String id;
-	@Key
-	private String thumbnailRes;
+	private String title;
+
+	@Key(value = "image")
+	private String thumbnail;
+
+	public String getTitle() {
+		return title;
+	}
+
+	public void setTitle(String title) {
+		this.title = title;
+	}
 
 	public String getBio() {
 		return bio;
@@ -22,27 +45,47 @@ public class Speaker {
 	}
 
 	public String getName() {
-		return name;
+		return fname + " " + lname;
 	}
 
-	public void setName(String name) {
-		this.name = name;
+	public String getThumbnail() {
+		return thumbnail;
 	}
 
-	public String getId() {
+	public void setThumbnail(String thumbnail) {
+		this.thumbnail = thumbnail;
+	}
+
+	public int getOrder() {
+		return order;
+	}
+
+	public void setOrder(int order) {
+		this.order = order;
+	}
+
+	public String getTwitter() {
+		return twitter;
+	}
+
+	public void setTwitter(String twitter) {
+		this.twitter = twitter;
+	}
+
+	public Id getId() {
 		return id;
 	}
 
-	public void setId(String id) {
+	public void setId(Id id) {
 		this.id = id;
 	}
 
-	public String getThumbnailRes() {
-		return thumbnailRes;
+	public String getLname() {
+		return lname;
 	}
 
-	public void setThumbnailRes(String thumbnailRes) {
-		this.thumbnailRes = thumbnailRes;
+	public void setLname(String lname) {
+		this.lname = lname;
 	}
 
 }

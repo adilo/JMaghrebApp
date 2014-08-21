@@ -1,7 +1,5 @@
 package com.technoee.jmaghrebsched.ui.fragment;
 
-import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
 import android.app.Dialog;
@@ -23,8 +21,6 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.technoee.jmaghrebsched.R;
-import com.technoee.jmaghrebsched.io.JSONHandler;
-import com.technoee.jmaghrebsched.io.SpeakersHandler;
 import com.technoee.jmaghrebsched.model.Speaker;
 import com.technoee.jmaghrebsched.ui.MainActivity;
 
@@ -38,7 +34,6 @@ public class SpeakersFragment extends ListFragment {
 
 		mSpeakersAdapter = new MyAdapter(getActivity(), MainActivity.speakers);
 		setListAdapter(mSpeakersAdapter);
-
 	}
 
 	@Override
@@ -51,6 +46,7 @@ public class SpeakersFragment extends ListFragment {
 		listView.setItemsCanFocus(true);
 		listView.setCacheColorHint(Color.WHITE);
 		listView.setSelector(android.R.color.transparent);
+
 		return root;
 	}
 
@@ -92,7 +88,7 @@ public class SpeakersFragment extends ListFragment {
 
 			Speaker speaker = speakers.get(position);
 			holder.txt.setText(speaker.getName());
-			holder.img.setImageResource(getResourceByName(speaker.getThumbnailRes()));
+			holder.img.setImageResource(getResourceByName(speaker.getThumbnail()));
 
 			holder.container.setTag(speaker);
 			holder.container.setBackgroundResource(R.drawable.btn_action);
@@ -112,7 +108,7 @@ public class SpeakersFragment extends ListFragment {
 
 					// img
 					ImageView imageView = (ImageView) dialog.findViewById(R.id.img_sponsor);
-					imageView.setImageResource(getResourceByName(speaker.getThumbnailRes()));
+					imageView.setImageResource(getResourceByName(speaker.getThumbnail()));
 
 					// Bio
 					WebView view = new WebView(getContext());

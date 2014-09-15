@@ -9,7 +9,7 @@ With JMaghreb conference companion App, you can :
 Demo
 ====
 
-Download the JMaghrebApp from the App Store.
+Download the JMaghrebApp from the Play Store.
 
 <a href="https://play.google.com/store/apps/details?id=com.technoee.jmaghrebsched">
   <img alt="Android app on Google Play"
